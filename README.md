@@ -8,4 +8,6 @@ USAGE:
 Click on eZPass.bat
 --> The script automatically generates random passwords.
 
-Call eZPass from command line ``` eZPass.bat fast``` --> Copies generated password to clipboard.
+Call eZPass from command line
+``` eZPass.bat fast ```
+ --> Copies generated password to clipboard.
